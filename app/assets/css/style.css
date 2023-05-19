@@ -1066,6 +1066,14 @@ footer.white-wrapper .social-links li a {
 .fw-carousel .owl-item {
     /* padding: 0 */
 }
+#title-header{
+    font-size: 2vw;
+}
+#title-header img {
+    width: 20vw;
+    height: 20vw;
+
+}
 
 .fw-carousel .hover-item-caption h3 {
     font-size: 20px
@@ -1091,6 +1099,12 @@ footer.white-wrapper .social-links li a {
 /*-----------------------------------------------------------------------------------*/
 /*  13 - SEARCH
 /*-----------------------------------------------------------------------------------*/
+#error-form {
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    font-size: 24px;
+}
 
 #search-wrapper {
     position: fixed;
